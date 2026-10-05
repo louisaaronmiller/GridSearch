@@ -27,3 +27,6 @@ Animation reacts to walls and everything else
 
 Euclidean distance metric
 <img width="1406" height="942" alt="Euclidean" src="https://github.com/user-attachments/assets/5a785160-5911-49cf-a917-dec59d9a68ed" />
+DFS generated mazes
+<img width="1382" height="930" alt="mazes" src="https://github.com/user-attachments/assets/642bf403-3cdf-405a-ac80-dd5b6b0bf9c3" />
+
